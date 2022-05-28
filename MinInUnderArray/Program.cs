@@ -11,8 +11,8 @@ namespace MinInUnderArray
         static void Main(string[] args)
         {
             //путь
-            string inputpath = "D:\\SolutionsForSpaceApp\\2025\\input.txt";
-            string outputpath = "D:\\SolutionsForSpaceApp\\2025\\output.txt";
+            string inputpath = "D:\\SolutionsForSpaceApp\\2028\\input.txt";
+            string outputpath = "D:\\SolutionsForSpaceApp\\2028\\output.txt";
 
             //создание файлов
             FileStream fs = new FileStream(inputpath, FileMode.OpenOrCreate);
